@@ -54,7 +54,7 @@ input[type="text"], input[type="number"], button {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* Adjust the vertical alignment */
+    font-weight: bold;
     line-height: 44px;
 }
 
