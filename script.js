@@ -199,3 +199,6 @@ function getFlagUrl(countryName) {
             return ""; // Return empty string if flag URL not found
     }
 }
+document.getElementById('ExchangeButton').addEventListener('click', function() {
+            this.classList.toggle('rotated');
+        });
