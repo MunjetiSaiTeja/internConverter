@@ -45,7 +45,7 @@ input[type="text"], input[type="number"], button {
 #exchangeButton {
     width: 44px;
     height: 44px;
-    font-size: 25px;
+    font-size: 30px;
     border-radius: 50%;
     border: 1px solid #ccc;
     background-color: #f8f8f8;
