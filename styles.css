@@ -118,3 +118,6 @@ button:hover {
     height: auto; /* Maintain aspect ratio */
     margin-right: 5px; /* Add some space between flag and currency code */
 }
+.rotated {
+    transform: rotate(180deg);
+}
