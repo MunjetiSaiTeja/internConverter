@@ -110,13 +110,13 @@ button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 10px; /* Add margin to create space between buttons */
+    margin-bottom: 10px; 
 }
 
 .flag-image {
-    width: 20px; /* Adjust the width of the flag images */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 5px; /* Add some space between flag and currency code */
+    width: 20px; 
+    height: auto; 
+    margin-right: 5px; 
 }
 .rotated {
     transform: rotate(180deg);
